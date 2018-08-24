@@ -1,0 +1,34 @@
+body {
+    background-image: url(../images/light-grey-terrazzo.png);
+    line-height: 30px;
+}
+
+.navbarTop {
+    padding: 15px;
+    margin-bottom: 50px;
+    font-size: 18px;
+}
+
+.aboutMe {
+    background-color: whitesmoke;
+    padding: 15px;
+}
+
+.aboutMeHeader {
+    font-weight: bold;
+    border-bottom: solid 3px black;
+}
+
+img {
+    width: 325px;
+    height: 250px;
+}
+
+.footerSection {
+    margin-top: 150px;
+    background-color: whitesmoke;
+}
+
+.navbar-text {
+
+}
