@@ -22,13 +22,13 @@ body {
 img {
     width: 325px;
     height: 250px;
+    margin-top: 15%;
 }
 
-.footerSection {
-    margin-top: 150px;
-    background-color: whitesmoke;
+html {
+    margin-bottom: 25%;
 }
 
 .navbar-text {
-
+    margin-left: 50%;
 }
