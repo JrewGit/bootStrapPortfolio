@@ -12,6 +12,7 @@ body {
 .aboutMe {
     background-color: whitesmoke;
     padding: 15px;
+    border-radius: 15px;
 }
 
 .aboutMeHeader {
@@ -22,7 +23,7 @@ body {
 img {
     width: 325px;
     height: 250px;
-    margin-top: 15%;
+    margin-top: 5%;
 }
 
 html {
