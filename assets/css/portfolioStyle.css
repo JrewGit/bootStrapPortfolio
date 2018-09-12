@@ -5,3 +5,8 @@ img {
 .pictures {
     margin: auto;
 }
+
+.img-fluid {
+    height: 150px;
+    width: 350px;
+}
