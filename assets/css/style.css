@@ -20,7 +20,7 @@ body {
     border-bottom: solid 3px black;
 }
 
-img {
+.portfolioIcon {
     width: 325px;
     height: 250px;
     margin-top: 5%;

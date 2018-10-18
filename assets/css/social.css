@@ -1,0 +1,30 @@
+.socialIcon {
+    width: 225px;
+    height: 175px;
+    margin-top: 15%;
+}
+
+#linkedIn {
+    width: 175px;
+    height: 175px;
+    margin-top: 15%;
+    margin-left: 15%;
+}
+
+#email {
+    margin-top: 0;
+}
+
+#gitHubTag {
+    margin-top: 10%;
+}
+
+#linkedInTag {
+    margin-top: 9%;
+    margin-left: 5%;
+}
+
+#emailTag {
+    margin-top: 6%;
+    margin-left: 1%;
+}
