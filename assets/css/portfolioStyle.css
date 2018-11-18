@@ -24,6 +24,8 @@ img {
 
 .pictures {
     margin: auto;
+    padding-top: 25px;
+    border-bottom: 3px solid lightgrey;
 }
 
 .img-fluid {
